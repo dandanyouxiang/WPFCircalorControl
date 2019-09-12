@@ -1,3 +1,3 @@
 # WPFCircalorControl
 WPFCircalorControl
-![](https://github.com/thunshell/Nier/blob/master/WPFCircalorControl/circalor.gif)
+![](https://github.com/thunshell/WPFCircalorControl/blob/master/circalor.gif)
